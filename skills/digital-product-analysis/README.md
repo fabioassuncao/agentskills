@@ -1,6 +1,6 @@
 # Digital Product Analysis
 
-Skill para [Claude Code](https://docs.anthropic.com/en/docs/claude-code) que realiza análise completa de produto digital — da validação de ideia até a tese de investimento — gerando documentação estruturada, pronta para compartilhar com sócios, investidores e stakeholders.
+Skill que realiza análise completa de produto digital — da validação de ideia até a tese de investimento — gerando documentação estruturada, pronta para compartilhar com sócios, investidores e stakeholders.
 
 ## O que faz
 
@@ -17,16 +17,6 @@ A skill atua como um **analista sênior de produto, estratégia e negócios**. A
 - **Pragmática.** O foco é: "existe uma forma rápida e viável de ganhar dinheiro com isso?" — não teoria abstrata.
 - **Completa.** De overview a pitch deck de investidor, tudo em um único fluxo.
 - **Pesquisa ativa.** Busca concorrentes, legislação, dados de mercado e cases na internet automaticamente.
-
-## Instalação
-
-Copie a pasta `digital-product-analysis/` para o diretório de skills do Claude Code:
-
-```bash
-cp -r digital-product-analysis/ ~/.claude/skills/digital-product-analysis/
-```
-
-A skill será detectada automaticamente na próxima sessão.
 
 ## Como usar
 
@@ -225,7 +215,6 @@ digital-product-analysis/
 
 ## Requisitos
 
-- [Claude Code](https://docs.anthropic.com/en/docs/claude-code) (CLI ou IDE)
 - Acesso à internet (para pesquisa de mercado)
 - Ferramentas WebSearch e WebFetch disponíveis (para buscar concorrentes, legislação, dados)
 
