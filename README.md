@@ -1,6 +1,6 @@
 # Agent Skills
 
-Coleção pessoal de Agent Skills para resolver demandas do meu dia a dia.
+Coleção pessoal de Agent Skills para automatizar algumas tarefas do meu dia a dia.
 
 ## Skills
 
